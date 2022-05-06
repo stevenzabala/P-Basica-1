@@ -9,8 +9,8 @@ int main(int argc, char **argv)
     cin >> a;
     cin >> b;
     int S = a + b;
-    int P = a *b;
+    int F = a *b;
 	cout << "a+b=" << S << "\n";
-    cout << "a*b=" << P << "\n";
+    cout << "a*b=" << F << "\n";
 	return 0;
 }
